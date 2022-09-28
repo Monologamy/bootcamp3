@@ -1,0 +1,24 @@
+/* 
+*{
+   color: white;
+    background-color: black;
+}
+p
+{
+    background-color: brown;
+    color: cornflowerblue;
+}*/
+.redtheme
+{
+    color: crimson;
+    background-color: indianred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#idname
+{
+   color:rgba(210, 180, 222,1);
+   background-color: coral;
+   font-size: 1em;
+   font-weight: bold;
+}

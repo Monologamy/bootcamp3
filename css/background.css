@@ -1,0 +1,66 @@
+.bg1
+{
+    background: scroll blueviolet;
+}
+.bgpic
+{
+    background: url(../images/dmc4.png) fixed center center no-repeat;
+    background-size: 500px 300px;
+}
+.bgrow1
+{
+    height: 300px;
+    background: yellow;
+}
+.bgrow2
+{   
+    background: blue;
+}
+.table
+{
+    width: 1000px;
+    border-color: aqua;
+    border-style: dotted;
+    border-width: 15px;
+    background: grey;
+    color: aliceblue;
+    border-spacing: 15px 30px;
+}
+.table2
+{
+    border-style: solid;
+    border-width: 2px;
+    empty-cells: hide;
+    border-collapse: collapse;
+}
+.boxsample
+{
+    
+
+   border: solid darkblue 5px;
+    margin: 40px 70px 50px 100px;
+    border-radius: 300px;
+}
+.imgclass
+{
+    height: 300px;
+    width: 400px;
+    border-radius: 300px;
+}
+.imgclass2
+{
+    height: 300px;
+    width: 400px;
+    border-radius: 300px;
+    box-sizing: border-box;
+    padding: 80px;
+    border: 10px solid seagreen;
+    box-shadow: 5px 5px 5px black;
+}
+.sampleoverflow
+{
+    height: 100px;
+    width:100px;
+    border: 2px dashed blueviolet;
+    overflow: scroll;
+}

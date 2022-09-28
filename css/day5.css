@@ -1,0 +1,77 @@
+p /*Element Selector*/
+{
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-align: left;
+}
+.fstyle/*Class Selector*/
+{
+    font-style: italic;
+    color: aqua;
+    background-color: black;
+    font-weight: bold;
+    text-transform: lowercase;
+    text-decoration: line-through;
+    text-align: center;
+}
+#idfstyle/*Id Selector*/
+{
+    font-style: oblique;
+    color: brown;
+    background-color: cornflowerblue;
+    font-weight: lighter;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: right;
+}
+.shadow
+{
+    text-shadow: 5px -5px 2px black;
+}
+.shadow2
+{
+    text-shadow: -5px 5px 2px blanchedalmond;
+}
+.indent
+{
+    text-indent: 5%;
+}
+.letterspace
+{
+    letter-spacing: 10px;
+}
+.wordspace
+{
+    word-spacing: 20px;
+}
+.divbg1
+{
+    background-color: chartreuse;
+}
+.divbg2 ul li
+{
+    background-color: darkmagenta;
+}
+.listeffectol
+{
+    list-style-type: lower-roman;
+    list-style-position: inside;
+}
+.listeffectul
+{
+    list-style: square outside;
+}
+.imgstyle
+{
+    height: 50%;
+    width: 50%;
+}
+body
+{
+    background-image: url(../images/dmc4.png);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size: 300px 300px;
+    background-attachment: fixed;
+}  

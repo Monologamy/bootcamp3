@@ -1,0 +1,17 @@
+.blockbg
+{
+    background: palegreen;
+    display: inline-block;
+    height: 300px;
+    width: 500px;
+
+}
+.inlinebg
+{
+    background: lightblue;
+    display: none;
+}
+.maindiv
+{
+    background: purple;
+}
